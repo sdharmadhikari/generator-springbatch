@@ -1,0 +1,20 @@
+{
+  "name": "generator-springbatch",
+  "version": "0.1.0",
+  "description": "Spring Batch Yeoman Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Spring",
+    "Batch",
+    "Yeoman",
+    "Generator"
+  ],
+  "author": "Right Now Just Sudhir",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.17.3"
+  }
+}
