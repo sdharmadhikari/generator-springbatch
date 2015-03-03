@@ -1,36 +1,5 @@
 {
-  "name": "generator-springbatch",
+  "name": "package",
   "version": "0.0.0",
-  "description": "Yeoman generator",
-  "license": "MIT",
-  "main": "app/index.js",
-  "repository": "sdharmadhikari/generator-springbatch",
-  "author": {
-    "name": "Sudhir Dharmadhikari",
-    "email": "sdharmadhikari@softrism.com",
-    "url": "https://github.com/sdharmadhikari"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "files": [
-    "app"
-  ],
-  "keywords": [
-    "yeoman-generator"
-  ],
-  "dependencies": {
-    "yeoman-generator": "^0.18.0",
-    "chalk": "^0.5.0",
-    "yosay": "^0.3.0"
-  },
-  "devDependencies": {
-    "mocha": "*"
-  },
-  "peerDependencies": {
-    "yo": ">=1.0.0"
-  }
+  "dependencies": {}
 }

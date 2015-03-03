@@ -13,13 +13,13 @@ module.exports = yeoman.generators.Base.extend({
 
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the breathtaking' + chalk.red('Springbatch') + ' generator!'
+      'Welcome to the ' + chalk.yellow('Springbatch') + ' generator!'
     ));
 
     var prompts = [{
       type: 'confirm',
       name: 'someOption',
-      message: 'Would you like to enable this option?',
+      message: 'Would you like to create new springbatch job?',
       default: true
     }];
 
